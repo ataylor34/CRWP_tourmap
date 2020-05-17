@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Interpretive Sign",
+        "ProjectName": "Ggax Kucae’e, Rabbit Area River Mouth, Gakona River.",
+        "Details": "Installed in 2011",
+        "Description": "The river says something different every day.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-9.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/ggax-kucaee-gakona-river-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.32634,
+          62.298753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Interpretive Sign",
+        "ProjectName": "Sday’dinaesi Gha, By the Long Point, Glennallen.",
+        "Details": "Installed in 2011",
+        "Description": "Ahtna language is a poetry of place. A memorized geography born from walking ancient trails. Place names orient to the rivers’ flow and direction. The suffix na means river. Words create an audible map to navigate the landscape.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-12.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-12.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.475323,
+          62.109541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Interpretive Sign",
+        "ProjectName": "Bendiilna’, Lake Flows Creek, Mendeltna.",
+        "Details": "Installed in 2011",
+        "Description": "If you put a small leaf boat in this creek, where would it journey?",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-5.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/bendiilna-mendeltna-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.130032,
+          62.175465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Interpretive Sign",
+        "ProjectName": "Tl’atina’, Rear Water River, Klutina River.",
+        "Details": "Installed in 2011",
+        "Description": "Salmon tie the mountains and ocean together…Born in clear, upland streams, salmon scribe an ancestral circle as they migrate far out to sea and return to spawn in the same shallow waters where they began.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-6.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/tlatina-copper-center-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.316745,
+          61.947354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Interpretive Sign",
+        "ProjectName": "Nentsiis Bene’, Our Nose Lake, Willow Lake.",
+        "Details": "Installed in 2011",
+        "Description": "Look up to look back in time. Only the tip top of Willow Mountain showed above an ancient lake. 58,000 years ago you would be standing 1,500 feet underwater.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-17.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/nentsiis-bene-willow-lake-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.179462,
+          61.778349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Interpretive Sign",
+        "ProjectName": "Tsedi Na’, Copper River, Chitina.",
+        "Details": "Installed in 2011",
+        "Description": "Long, long ago, people and animals could talk together. Ancient legends of the Ahtna Athabascans tell such tale. In one story, passed down over generations, people were taught how to show respect and proper care for salmon so they would freely return to humans each year.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-16.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/tsedi-na-chitina-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.400017,
+          61.531541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Interpretive Sign",
+        "ProjectName": "Stl’aa Na’ , Rear River, Slana River.",
+        "Details": "Installed in 2011",
+        "Description": "You've entered a watershed, the northeastern edge of a vast system that drains a ring of great mountains. The Slana’s clear waters began at the foot of the Alaska Range and in Mentasta uplands. Barry Lopez's words on this sign are from a story called \"Drought\" in River Notes and are reprinted with the author's permission.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-14.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/stlaa-slana-river-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.686562,
+          62.85852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Odiak Pond Field Study",
+        "ProjectName": "Odiak Pond Field Study",
+        "Details": "8 years; 200 students",
+        "Description": "In 2009, Cordova 7th graders adopted Odiak Pond and for years studied this ecosystem as part of their science class. They monitored water quality indicators and conducted annual ecosystem assessments. Visit our Student Project Page to view all their amazing work!",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-45.jpeg",
+        "geospatial feature": "point or polygon",
+        "URLs": "https://copperriver.org/programs/watershed-education/odiak-pond-field-study/odiak-pond-student-projects/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.752057,
+          60.540141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Copper River Stewardship Program",
+        "ProjectName": "Copper River Stewardship Program",
+        "Details": "110 student participants",
+        "Description": "Every year since 2009 the Copper River Stewardship Program has taken 10 youth from communities throughout the region on an in-depth adventure through the Copper River watershed. They explore via raft, canoe, and by foot, and participate in stewardship programs while meeting with a wide-range of representatives across the watershed.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2019/03/img_5899-300x200.jpg",
+        "geospatial feature": "point or polygon",
+        "URLs": "https://copperriver.org/programs/watershed-education/copper-river-stewardship-program/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.771746,
+          61.3357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Salmon in the Classroom",
+        "ProjectName": "Mt. Eccles Elementary School",
+        "Details": "630 students & 2,700 salmon fry",
+        "Description": "Each year, students in Cordova raise salmon in school. They spend time monitoring the tank, tracking the development, and feeding the fry.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_mini-64.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/watershed-education/salmon-in-the-classroom/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.757059,
+          60.5436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education",
+        "LayerName": "Salmon in the Classroom",
+        "ProjectName": "Upstream Learning",
+        "Details": "200 salmon fry",
+        "Description": "Students in the Upstream Learning program learn hands-on about the salmon life cycle while raising salmon.  They spend time monitoring the tank, tracking the development, and feeding the fry.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-71.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/watershed-education/salmon-in-the-classroom/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.499044,
+          62.818029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Salmon in the Classroom",
+        "ProjectName": "Kenny Lake Elementary School",
+        "Details": "200 salmon fry",
+        "Description": "Students at Kenny Lake Elementary School learn hands-on about the salmon life cycle while raising salmon.  They spend time monitoring the tank, tracking the development, and feeding the fry.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-72.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/watershed-education/salmon-in-the-classroom/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.009619,
+          61.726812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Salmon in the Classroom",
+        "ProjectName": "Glennallen Elementary School",
+        "Details": "200 salmon fry",
+        "Description": "Students at Glennallen Elementary School learn hands-on about the salmon life cycle while raising salmon.  They spend time monitoring the tank, tracking the development, and feeding the fry.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-74.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/watershed-education/salmon-in-the-classroom/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.527182,
+          62.113274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Salmon in the Classroom",
+        "ProjectName": "Slana School",
+        "Details": "200 salmon fry",
+        "Description": "Students at Slana School learn hands-on about the salmon life cycle while raising salmon.  They spend time monitoring the tank, tracking the development, and feeding the fry.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-76.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/watershed-education/salmon-in-the-classroom/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.967371,
+          62.708392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Salmon in the Classroom",
+        "ProjectName": "Mentasta Lake School",
+        "Details": "200 salmon fry",
+        "Description": "Students at Mentasta Lake School learn hands-on about the salmon life cycle while raising salmon.  They spend time monitoring the tank, tracking the development, and feeding the fry.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-77.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/watershed-education/salmon-in-the-classroom/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.798552,
+          62.92918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Cordova Discovery Trail",
+        "ProjectName": "Stormwater Run-Off Interp Sign",
+        "Details": "Installed in 2010",
+        "Description": "Stormwater is rain or snow melt that is unable to soak into the ground. Washing over streets or parking lots, water picks up pollutants and sediments that can harm life in creeks, lakes,or bays and contaminate drinking water.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-15.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/stormwater-run-off-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.7590055,
+          60.54495704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Cordova Discovery Trail",
+        "ProjectName": "Skaters Cabin Interp Sign",
+        "Details": "Installed in 2010",
+        "Description": "Five species of anadromous fish depend upon the unique habitat of Eyak Lake. The shallow, clear water, clean gravel, and abundant food are perfect for young salmon, char, and trout to grow before they migrate to saltwater.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-13.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/skaters-cabin-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.7081938,
+          60.54647644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Cordova Discovery Trail",
+        "ProjectName": "Nirvana Park Interp Sign",
+        "Details": "Installed in 2010",
+        "Description": "get from pic sign",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-11.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/nirvana-park-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.7397366,
+          60.54293107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Cordova Discovery Trail",
+        "ProjectName": "Hatchery Creek Interp Sign",
+        "Details": "Installed in 2010",
+        "Description": "Pacific salmon are anadromous fish. That means they hatch in freshwater, migrate to saltwater as juveniles to grow and then return 'home' to reproduce.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-10.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/hatchery-creek-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.6194878,
+          60.58722025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Cordova Discovery Trail",
+        "ProjectName": "Eyak River Interp Sign",
+        "Details": "Installed in 2010",
+        "Description": "50,000 sockeye & 10,000 coho salmon migrate up Eyak River each year, returning to the spawning grounds where they were born 3 to 5 years before.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-8.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/eyak-river-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.6399047,
+          60.52874044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Watershed Education ",
+        "LayerName": "Cordova Discovery Trail",
+        "ProjectName": "Eyak Lake Weir Interp Sign",
+        "Details": "Installed in 2010",
+        "Description": "Since the first Alaskan Natives arrived, Eyak Lake has always been a desirable place to gather, celebrate and recreate. Eyak Lake and its 19 miles of shoreline are designated by the State of Alaska as an \"Area Meriting Special Attention.\" Goals of this status are to improve or maintain water quality and protect fish and wildlife habitat while encouraging recreation within the planning area.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/file_preview-7.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/watershed-location/eyak-lake-weir-interp-sign/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.6470823,
+          60.53189152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Tourism & Recreation Resources",
+        "LayerName": "Cordova Breakwater Trail",
+        "ProjectName": "Cordova Breakwater Trail",
+        "Details": "Completed 2010",
+        "Description": "With funding from the Alaska Recreational Trail Grants program, the City of Cordova, and time donated from many volunteers, CRWP completed construction of a walking trail on top of the Cordova Harbor Breakwater in 2010. Now visitors and residents have a level walking surface to visit one of the Cordova waterfront’s most scenic vistas.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-67.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/tourism/recreation-projects/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.769468,
+          60.543617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Tourism & Recreation Resources",
+        "LayerName": "Gulkana River Salmon Viewing Platform",
+        "ProjectName": "Gulkana River Salmon Viewing Platform",
+        "Details": "Completed 2002",
+        "Description": "In 2002, CRWP applied for and was awarded funding to construct this salmon viewing platform, and the State Parks & Recreation Division created two interpretive signs that are installed here. The platform protects bank vegetation from foot traffic, and provides a safe viewing opportunity for visitors.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-68.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/tourism/recreation-projects/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.499044,
+          62.818029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Tourism & Recreation Resources",
+        "LayerName": "Shelter Cove Recreational Access",
+        "ProjectName": "Shelter Cove Recreational Access",
+        "Details": "Started in 2017",
+        "Description": "CRWP has teamed up with the City of Cordova to improve recreational access at Shelter Cove for sport fishermen, kayakers, intertidal explorers and others. This is an ongoing project.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2017/06/ShelterCove-300x225.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/tourism/recreation-projects/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.743412,
+          60.563336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Tourism & Recreation Resources",
+        "LayerName": "Kenny Lake Audio Collage",
+        "ProjectName": "Kenny Lake Audio Collage",
+        "Details": "Started in 2008",
+        "Description": "During spring 2012, CRWP hosted a talking circle in Slana, Copper Center and Kenny Lake to pull together elders from each community and facilitate the sharing of stories. Listen to the audio collage and learn more about the profound cultural history of the region.",
+        "media type": "image & audio",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/KL-Audio-Collage.mp3",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/tourism/recreation-projects/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.9483333,
+          61.7191667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Restoration Project",
+        "ProjectName": "Eyak Lake Restoration Projects",
+        "Details": "Started in 2003",
+        "Description": "Since 2003, the Copper River Watershed Project has been coordinating partnerships and volunteer efforts to restore bank vegetation, fish passage, and water quality in Eyak Lake with these efforts:",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-4.png",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/eyak-lake/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.659503,
+          60.536573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Restoration Project",
+        "ProjectName": "Power Creek Road Spit Removal",
+        "Details": "",
+        "Description": "An old spit in Eyak Lake was excavated and revegetated in 2009. This project improved lake circulation adjacent to sockeye spawning beds and rearing habitat for cutthroats, coho juveniles, and sockeye fry.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-5.png",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/eyak-lake/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.717034,
+          60.544438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Restoration Project",
+        "ProjectName": "Nirvana Park Oil & Grit Separator",
+        "Details": "",
+        "Description": "A Stormceptor Oil & Grit Separator was installed to filter sediment and hydrocarbons from stormwater runoff before it enters Eyak Lake. This improved salmon rearing sites by flushing sediment buildup, reducing turbidity and hydrocarbon input into the lake.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_preview-39.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/eyak-lake/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.740544,
+          60.543279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Fish Passage Project",
+        "ProjectName": "18 Mile Creek, Goose Meadow, MP 20.1 CRH",
+        "Details": "",
+        "Description": "Problem: The original pipe at 18 Mile Creek was 8' in diameter and blocked passage to three miles of upstream habitat for juvenile coho salmon and cutthroat trout. Outcome: A new 15' 4\" x 10' fish friendly culvert was installed December 2016. It accommodates the full width of the natural stream channel. Streambed material was placed inside the pip to hold the base in place and to provide more natural stream conditions for fish passage.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2017/03/Goose-Meadow-placing-culvert-small-300x225.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/culverts-are-the-culprits/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.26601,
+          60.45286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Fish Passage Project",
+        "ProjectName": "Eccles Creek",
+        "Details": "",
+        "Description": "Problem: Eccles Creek is 22' wide and in the 1980's the bridge there was replaced with an 8' culvert. This acted as a velocity barrier for rearing juveniles. Outcome: The culvert was replaced to improve drainage and reduce sediment runoff.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_mini-26.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/culverts-are-the-culprits/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.778795,
+          60.531245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Fish Passage Project",
+        "ProjectName": "Whiskey Creek",
+        "Details": "",
+        "Description": "Problem: The culvert at Whiskey Creek was undersized for five-year peak flood levels which created a velocity barrier for juvenile fish passage and resulted in flooding to neighbors' properties. Outcome: The culvert was replaced which improved drainage and access to quality habitat for coho salmon, pink salmon, and cutthroat trout. ",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_mini-25.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/culverts-are-the-culprits/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.777826,
+          60.533414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Fish Passage Project",
+        "ProjectName": "Power Creek Road, by old Ketchum air site",
+        "Details": "",
+        "Description": "Problem: Three small culverts were constricting the flow from the upstream side of Power Creek Road. Outcome: The three culverts were replaced with one 15' x 6' arch pipe which allows the full stream channel to flow under the road thus improving spawning habitat for sockeye salmon and access to spawning habitat for pink salmon.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_mini-28.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/culverts-are-the-culprits/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.718764,
+          60.544628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Restoration Project",
+        "ProjectName": "Odiak Bioswale",
+        "Details": 2013,
+        "Description": "The CRWP worked with local students and partners to design and implement a wetland using native vegetation that filters water draining from Cordova's streets. ",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_mini-33.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/odiak-watershed-restoration/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.751765,
+          60.540937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Restoration Project",
+        "ProjectName": "Native Plant Garden",
+        "Details": 2012,
+        "Description": "In the summer of 2012, CRWP and partners constructed a native plant garden to provide educational opportunities and to use the seeds for revegetation projects. ",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_mini-30.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/odiak-watershed-restoration/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.751765,
+          60.540937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Fish Habitat Monitoring & Restoration",
+        "LayerName": "Restoration Project",
+        "ProjectName": "Odiak watershed culvert removal & stream channel restoration",
+        "Details": 2014,
+        "Description": "In the summer of 2014, CRWP and partners removed an old wooden culvert remaining from the Copper River/Northwest Railroad. The goal was to re-establish the natural flow of water through Odiak watershed and improved fish passage to upstream channels for Coho salmon. ",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/03/image_mini-35.jpeg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/fish-habitat-restoration/odiak-watershed-restoration/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.750144,
+          60.539137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Invasive Plants",
+        "LayerName": "Community Weed Smackdown",
+        "ProjectName": "Community Weed Smackdown",
+        "Details": "2014 - present, 134 volunteers, 7,025 lbs pulled",
+        "Description": "Annual community event to pull White Sweetclover in the Copper Basin.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2019/06/glennallen_weedsmackdown_2014.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/invasive-plant-management/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.368734,
+          62.287433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Invasive Plants",
+        "LayerName": "Cooperative Weed Management Area",
+        "ProjectName": "Copper Basin CWMA",
+        "Details": "2015 - present",
+        "Description": "If you want to join our CWMA and stay current on invasive plant infestations and work in Copper Basin please get in touch. Help the CRWP and federal, state, and local organizations keep invasive plants out of our watershed! ",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/cb_cws_2019-scaled.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/invasive-plant-management/cooperative-weed-management-areas/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.351533,
+          62.121657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Invasive Plants",
+        "LayerName": "Cooperative Weed Management Area",
+        "ProjectName": "Cordova CWMA",
+        "Details": "2015 - present",
+        "Description": "If you want to join our CWMA and stay current on invasive plant infestations and work in Cordova please get in touch. Help the CRWP and federal, state, and local organizations keep invasive plants out of our watershed! ",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/cdv_group_2019_invasives-scaled.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/invasive-plant-management/cooperative-weed-management-areas/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.748506,
+          60.545474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Invasive Plants",
+        "LayerName": "Monitoring & Treatment",
+        "ProjectName": "Cordova Monitoring & Treatment",
+        "Details": "surveyed: 264; treated: 121",
+        "Description": "The invasive plant team works with partners annually to monitor and control the spread of invasive plants in the Copper River watershed.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/cdv_oxd-scaled.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/invasive-plant-management/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.683984,
+          60.542394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GroupName": "Invasive Plants",
+        "LayerName": "Monitoring & Treatment",
+        "ProjectName": "Copper Basin Monitoring & Treatment",
+        "Details": "surveyed: 1,176; treated: 246",
+        "Description": "The invasive plant team works with partners annually to monitor and control the spread of invasive plants in the Copper River watershed.",
+        "media type": "image",
+        "mediaURL": "https://copperriver.org/wp-content/uploads/2016/04/cb_pull-scaled.jpg",
+        "geospatial feature": "point",
+        "URLs": "https://copperriver.org/programs/invasive-plant-management/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.768504,
+          62.095656
+        ]
+      }
+    }
+  ]
+}

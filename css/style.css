@@ -1,0 +1,84 @@
+/* Stylesheet by ATaylor, 2020 */
+
+header {
+    height: 75 px;
+    padding: 2px;
+
+        
+}
+h1 {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    font-family: "Convergence";
+    font-size: 25px;
+    font-style: bold;
+    font-weight: 100;
+    color:#2B6B6B;
+
+}
+
+h2 {
+    display: inline;
+    text-align: center;
+    font-family: "Verdana", sans-serif;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 100;
+    color:#c9bbbb;
+        
+}
+
+#dataBox {
+    font-size: 10px;
+    width: 70%;
+    font-family: "Verdana", sans-serif;
+}
+
+
+#mapid {
+    height: 650px;
+    width: 75%;
+    display: inline-block;
+}
+
+#panelBox {
+    width: 20%;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #B37856;
+    font-family: "Verdana", sans-serif;
+    
+    
+}
+
+#panel {
+    width: 100%;
+    padding: 0px;
+    display: inline-block;
+    vertical-align: bottom;
+    font-family: "Verdana", sans-serif;
+    
+}
+
+#panel2 {
+    width: 100%;
+    padding: 0px;
+    padding-bottom:5px;
+    float: right;
+    display: inline-block;
+    background-color: #A9CFCF;
+    text-align: center;
+    
+    
+}
+
+
+
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}

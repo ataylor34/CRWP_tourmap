@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Category": "Invasive Plants",
+        "Project": "Community Weed Smackdown",
+        "Description": "Annual community event to pull White Sweetclover in the Copper Basin",
+        "Partners": "",
+        "Years": "2014-2019",
+        "Volunteers": 57,
+        "Pounds": 5440,
+        "Species": "White Sweetclover",
+        "Funding": "USDS Mini-Grants",
+        "Contact": "chantel@copperriver.org",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.368734,
+          62.287433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Category": "Invasive Plants",
+        "Project": "Copper Basin CWMA",
+        "Description": "CRWP helped establish a CWMA in Copper Basin in 2015 to help control or eradicate priority invasive plants.",
+        "Partners": "Ahtna, Inc., BLM, CRWP, Wrangell St. Elias National Park & Preserve, USFWS",
+        "Years": "2015- present",
+        "Volunteers": "",
+        "Pounds": "",
+        "Species": "Bird Vetch, White Sweetclover, Narrowleaf Hawksbeard, Oxeye Daisy",
+        "Funding": "",
+        "Contact": "chantel@copperriver.org",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.351533,
+          62.121657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Category": "Invasive Plants",
+        "Project": "Cordova CWMA",
+        "Description": "CRWP helped establish a CWMA in Cordova in 2015 to help control or eradicate priority invasive plants.",
+        "Partners": "CRWP, USFS, City of Cordova, Private Landowners",
+        "Years": "2015-present",
+        "Volunteers": "",
+        "Pounds": "",
+        "Species": "Reed Canarygrass, Bohemian Knotweed, Orange Hawkweed",
+        "Funding": "",
+        "Contact": "chantel@copperriver.org",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.748506,
+          60.545474
+        ]
+      }
+    }
+  ]
+}

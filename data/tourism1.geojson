@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Tourism Resources",
+        "Layer Name": "Cordova Breakwater Trail",
+        "Project Name": "Cordova Breakwater Trail",
+        "Details": "Year?",
+        "Species": "With funding from the Alaska Recreational Trail Grants program, the City of Cordova, and time donated from many volunteers, CRWP constructed a walking trail on top of the Cordova Harbor Breakwater. Now visitors and residents have a level walking surface to visit one of the Cordova waterfront’s most scenic vistas.",
+        "Description": "image",
+        "media type": "",
+        "media URL": "line",
+        "geospatial feature": "Use this program name?",
+        "Questions": "",
+        "URLs": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.769468,
+          60.543617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Tourism Resources",
+        "Layer Name": "Gulkana River Salmon Viewing Platform",
+        "Project Name": "Gulkana River Salmon Viewing Platform",
+        "Details": "Built in 2002",
+        "Species": "In 2002, CRWP applied for and was awarded funding to construct this salmon viewing platform, and the State Parks & Recreation Division created two interpretive signs that are installed here. The platform protects bank vegetation from foot traffic, and provides a safe viewing opportunity for visitors.",
+        "Description": "image",
+        "media type": "",
+        "media URL": "point",
+        "geospatial feature": "Use this program name?",
+        "Questions": "",
+        "URLs": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.396329,
+          62.213513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Tourism Resources",
+        "Layer Name": "Shelter Cove Recreational Access",
+        "Project Name": "Shelter Cove Recreational Access",
+        "Details": "",
+        "Species": "CRWP has teamed up with the City of Cordova to improve recreational access at Shelter Cove for sport fishermen, kayakers, intertidal explorers and others.",
+        "Description": "image",
+        "media type": "",
+        "media URL": "point",
+        "geospatial feature": "Use this program name?",
+        "Questions": "",
+        "URLs": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.743412,
+          60.563336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Tourism Resources",
+        "Layer Name": "Kenny Lake Audio Collage",
+        "Project Name": "Kenny Lake Audio Collage",
+        "Details": "",
+        "Species": "",
+        "Description": "image & audio",
+        "media type": "",
+        "media URL": "point",
+        "geospatial feature": "Use this program name?",
+        "Questions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.9483333,
+          61.7191667
+        ]
+      }
+    }
+  ]
+}

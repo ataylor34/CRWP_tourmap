@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Invasive Plants",
+        "Layer Name": "Community Weed Smackdown",
+        "Project Name": "Community Weed Smackdown",
+        "Details": "2014 - present, 134 volunteers, 7,025 lbs pulled",
+        "Description": "Annual community event to pull White Sweetclover in the Copper Basin.",
+        "media type": "image",
+        "media URL": "https://copperriver.org/wp-content/uploads/2019/06/glennallen_weedsmackdown_2014.jpg",
+        "geospatial feature": "point",
+        "Questions": "",
+        "URLs": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.368734,
+          62.287433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Invasive Plants",
+        "Layer Name": "Cooperative Weed Management Area",
+        "Project Name": "Copper Basin CWMA",
+        "Details": "2015 - present",
+        "Description": "If you want to join our CWMA and stay current on invasive plant infestations and work in Copper Basin please get in touch. Help the CRWP and federal, state, and local organizations keep invasive plants out of our watershed! ",
+        "media type": "image",
+        "media URL": "https://copperriver.org/wp-content/uploads/2016/04/cb_cws_2019-scaled.jpg",
+        "geospatial feature": "point",
+        "Questions": "",
+        "URLs": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.351533,
+          62.121657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Invasive Plants",
+        "Layer Name": "Cooperative Weed Management Area",
+        "Project Name": "Cordova CWMA",
+        "Details": "2015 - present",
+        "Description": "If you want to join our CWMA and stay current on invasive plant infestations and work in Cordova please get in touch. Help the CRWP and federal, state, and local organizations keep invasive plants out of our watershed! ",
+        "media type": "image",
+        "media URL": "https://copperriver.org/wp-content/uploads/2016/04/cdv_group_2019_invasives-scaled.jpg",
+        "geospatial feature": "point",
+        "Questions": "",
+        "URLs": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.748506,
+          60.545474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Invasive Plants",
+        "Layer Name": "Monitoring & Treatment",
+        "Project Name": "Cordova Monitoring & Treatment",
+        "Details": "surveyed acres: 264; treated acres: 121",
+        "Description": "The invasive plant team works with partners annually to monitor and control the spread of invasive plants in the Copper River watershed.",
+        "media type": "image",
+        "media URL": "https://copperriver.org/wp-content/uploads/2016/04/cdv_oxd-scaled.jpg",
+        "geospatial feature": "point",
+        "Questions": "",
+        "URLs": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.683984,
+          60.542394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group Name": "Invasive Plants",
+        "Layer Name": "Monitoring & Treatment",
+        "Project Name": "Copper Basin Monitoring & Treatment",
+        "Details": "surveyed acres: 1,176; treated acres: 246",
+        "Description": "The invasive plant team works with partners annually to monitor and control the spread of invasive plants in the Copper River watershed.",
+        "media type": "image",
+        "media URL": "https://copperriver.org/wp-content/uploads/2016/04/cb_pull-scaled.jpg",
+        "geospatial feature": "point",
+        "Questions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.768504,
+          62.095656
+        ]
+      }
+    }
+  ]
+}
