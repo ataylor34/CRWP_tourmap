@@ -30,7 +30,7 @@ function createMap(){
         //zoomOffset: -1,
         accessToken: 'pk.eyJ1IjoiYXRheWxvcjM0IiwiYSI6ImNqdzFhYjF4ZzBqdDUzeXF2bHV5a215d2YifQ.8-xYAavjK01eVX1CuWTKSw'
     });
-    var miniMap = new L.Control.MiniMap(crwp_basemap2, {toggleDisplay: true}).addTo(map);
+    var miniMap = new L.Control.MiniMap(crwp_basemap2, {toggleDisplay: true}, {position: 'bottomleft'}).addTo(map);
     
     var sat_basemap = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/cka9uyidl1s351inrxiapji13/tiles/256/{z}/{x}/{y}?access_token={accessToken}', {
         attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
